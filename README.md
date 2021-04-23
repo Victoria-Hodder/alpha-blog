@@ -8,10 +8,8 @@ This is a RoR app I am building as part of the Udemy Course "Complete Ruby on Ra
 * Users can create, read, update and delete posts.
 * Authentication System (log in, log out)
 * Special functionality for admins
-
-Planned features include:
-
-* Search for posts according to categories
+* Search for posts according to title and content
+* Double Opt In
 
 And much more!
 
